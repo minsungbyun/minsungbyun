@@ -1,4 +1,12 @@
 ### Hi there 👋
+> thank you for visiting my github
+
+
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://enjoydevelop.tistory.com//) 
+
+___
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsungbyun%2Fhit-counter&count_bg=%238541C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/minsungbyun)
 <!--
