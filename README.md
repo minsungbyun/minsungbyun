@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,5,30&section=header&height=300&text=MinSung%20Byun&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,5,30&section=header&height=150&text=MinSung%20Byun&animation=fadeIn)
 
 
 
@@ -6,9 +6,8 @@
 > thank you for visiting my github
 
 
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://enjoydevelop.tistory.com//) 
-<a href="enjoy8939@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 <a href="https://www.instagram.com/master_byun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-purple?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://enjoydevelop.tistory.com//) 
 ___
 
 
